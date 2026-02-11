@@ -1,0 +1,21 @@
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# Node (if you ever add JS tooling)
+node_modules/
+
+# Build or export folders (if you add them later)
+dist/
+build/
+
